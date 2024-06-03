@@ -14,8 +14,22 @@ h1      {
         color: gray;
     }
     body    {
-        color: rgb(10, 23, 138);
-    }
-    h4  {color: darkorchid;}
 
-    li{color: rebeccapurple;}
+        h2  {
+            color: magenta;
+    }
+
+ h3  {color: blueviolet;}
+
+    
+h4  {color: darkorchid;}
+
+ li{color: rgba(4, 78, 43, 0.555);}
+
+
+    color: rgb(10, 23, 138);
+}      
+
+ 
+    
+
