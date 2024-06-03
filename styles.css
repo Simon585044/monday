@@ -14,5 +14,14 @@ h1      {
         color: gray;
     }
     body    {
-        color: rgb(10, 23, 138);
+        color: rgb(5, 163, 103);
     }
+
+    h2  {
+            color: magenta;
+    }
+
+    h3  {color: blueviolet;}
+
+    li{color: rgb(103, 160, 19);}
+    
